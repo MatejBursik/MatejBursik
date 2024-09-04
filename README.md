@@ -7,7 +7,7 @@
 ## About me
 
 - 📚 I'm currently studing at University
-- 🎯 Goals: Find a job, Publish a game and travel Europe and Asia
+- 🎯 Goals: Find a job, Publish a game and travel a bit
 - 🎲 I do sports (climing, downhill longboard, surf), and play computer and board game
 
 ## I enjoy coding with:
