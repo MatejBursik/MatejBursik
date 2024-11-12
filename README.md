@@ -58,11 +58,7 @@
 <p>
     <!-- PyTorch -->
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/favicon.ico" alt="PyTorch" width="40" height="40"/></a>
-    <!-- GraphQL -->
-    <a href="https://graphql.org" target="_blank" rel="noreferrer"><img src="https://graphql.org/favicon.ico" alt="graphql" width="40" height="40"/></a>
     <!-- Rust -->
     <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/static/images/favicon.svg" alt="Rust" width="40" height="40"/></a>
-    <!-- C++ -->
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
 </p>
 
