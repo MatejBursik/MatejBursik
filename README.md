@@ -10,7 +10,7 @@
 - 🎯 Goals: Find a job, Publish a game, and travel a bit
 - I like to do sports (climbing, downhill longboarding, surfing, skiing), programming, and play computer and board games
 
-## I enjoy coding with:
+## I enjoy working with:
 <p>
     <!-- Python -->
     <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
