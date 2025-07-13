@@ -22,6 +22,8 @@
     <a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://pytorch.org/favicon.ico" alt="PyTorch" width="40" height="40"/></a>
     <!-- OpenCV -->
     <a href="https://opencv.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></a>
+    <!-- Rust -->
+    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/static/images/favicon.svg" alt="Rust" width="40" height="40"/></a>
     <!-- Java -->
     <a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
     <!-- HTML -->
@@ -56,9 +58,8 @@
     <a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/></a>
 </p>
 
+<!--
 ## I'm learning:
-<p>
-    <!-- Rust -->
-    <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer"><img src="https://www.rust-lang.org/static/images/favicon.svg" alt="Rust" width="40" height="40"/></a>
+<p> 
 </p>
-
+-->
