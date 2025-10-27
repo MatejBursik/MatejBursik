@@ -8,7 +8,7 @@
 
 - 📚 I'm currently studing at University
 - 🎯 Goals: Find a job, Publish a game, and travel a bit
-- I like to do sports (climbing, downhill longboarding, surfing, skiing), programming, and play computer and board games
+- I like to do sports (climbing, downhill longboarding, skiing, surfing), programming, and play computer games
 
 ## I enjoy working with:
 <p>
