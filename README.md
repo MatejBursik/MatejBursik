@@ -6,7 +6,7 @@
 
 ## About me
 
-- 📚 I'm currently studing at University
+- 📚 I'm currently trying to find a job
 - 🎯 Goals: Find a job, Publish a game, and travel a bit
 - I like to do sports (climbing, downhill longboarding, skiing, surfing), programming, and play computer games
 
